@@ -1,4 +1,2 @@
 Students: 30
-Hour : 7
-
-
+Hour : 3
